@@ -1,9 +1,9 @@
-<h1>📱 Tugas Pemrograman Piranti Bergerak</h1>
+<h1> Tugas Pemrograman Piranti Bergerak</h1>
 <h2>Membuat List Sederhana</h2>
 
 <hr>
 
-<h3>👤 Identitas</h3>
+<h3> Identitas</h3>
 <ul>
   <li><b>Nama:</b> Made Aldi Ruskita Salahin</li>
   <li><b>NIM:</b> 230040070</li>
